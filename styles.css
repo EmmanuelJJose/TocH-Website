@@ -1,0 +1,30 @@
+*{
+    font-family: "Roboto Mono", monospace;
+    font-weight: 300;
+}
+h1{
+  font-family: "Oswald", sans-serif;
+}
+p{
+}
+.nav-item > .nav-link {
+    color:#fff;
+
+}
+.navbar,.navbar-brand > img {
+
+    background-color: #344CB7;
+}
+.collapse > ul > li {
+    margin: 0 5px;
+    
+}
+.collapse > ul > li > a:hover {
+    color:#000957;
+}
+.icon-container {
+    position: fixed;
+    bottom: 0;
+    right: 20px;
+    width: 50px;
+}
